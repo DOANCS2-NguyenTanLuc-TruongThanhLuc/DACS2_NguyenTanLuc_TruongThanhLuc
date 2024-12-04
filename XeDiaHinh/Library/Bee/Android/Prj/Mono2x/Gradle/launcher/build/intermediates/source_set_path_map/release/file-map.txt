@@ -1,0 +1,9 @@
+com.DOAN2.XeVtVtCn.launcher-pngs-0 D:\Game\XeDiaHinh\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DOAN2.XeVtVtCn.launcher-resValues-1 D:\Game\XeDiaHinh\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DOAN2.XeVtVtCn.launcher-rs-2 D:\Game\XeDiaHinh\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DOAN2.XeVtVtCn.launcher-mergeReleaseResources-3 D:\Game\XeDiaHinh\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DOAN2.XeVtVtCn.launcher-mergeReleaseResources-4 D:\Game\XeDiaHinh\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DOAN2.XeVtVtCn.launcher-merged_res-5 D:\Game\XeDiaHinh\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DOAN2.XeVtVtCn.launcher-main-6 D:\Game\XeDiaHinh\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DOAN2.XeVtVtCn.launcher-release-7 D:\Game\XeDiaHinh\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DOAN2.XeVtVtCn.launcher-packaged_res-8 D:\Game\XeDiaHinh\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
